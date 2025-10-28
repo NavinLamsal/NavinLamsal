@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **navinlamsal11@gmail.com**
 
-- 👨‍💻 Portfolio t **[https://www.navinlamsal.com.np/](https://www.navinlamsal.com.np/)**
+- 👨‍💻 Portfolio  **[https://www.navinlamsal.com.np/](https://www.navinlamsal.com.np/)**
 
 - 📄 Resume **[https://www.navinlamsal.com.np/cv/Navin_Lamsal_React_Developer_CV.pdf](https://www.navinlamsal.com.np/cv/Navin_Lamsal_React_Developer_CV.pdf)**
 
