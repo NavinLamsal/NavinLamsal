@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Navin Lamsal</h1>
-<h3 align="center">A passionate frontend developer with React and Next from Nepal</h3>
+<h3 align="center">Frontend developer and Aspiring Full-stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navinlamsal" alt="navinlamsal" /></a> </p>
 
-# Hi 👋, I'm Navin
 
-### A passionate Typescript developer
-
-- 🔭 I'm currently working on **Reactjs/Nextjs**
+- 🔭 I usually work on **Reactjs/Nextjs**
 
 - 🌱 I'm currently learning **django**
 
@@ -15,15 +12,15 @@
 
 - 📫 How to reach me **navinlamsal11@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://www.navinlamsal.com.np/](https://www.navinlamsal.com.np/)**
+- 👨‍💻 Portfolio t **[https://www.navinlamsal.com.np/](https://www.navinlamsal.com.np/)**
 
-- 📄 Know about my experiences **[https://www.navinlamsal.com.np/cv/Navin_Lamsal_React_Developer_CV.pdf](https://www.navinlamsal.com.np/cv/Navin_Lamsal_React_Developer_CV.pdf)**
+- 📄 Resume **[https://www.navinlamsal.com.np/cv/Navin_Lamsal_React_Developer_CV.pdf](https://www.navinlamsal.com.np/cv/Navin_Lamsal_React_Developer_CV.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/NavinLamsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NavinLamsal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navin-lamsal-4239a1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navin-lamsal-4239a1207" height="30" width="40" /></a>
-<a href="https://fb.com/lamsal.navin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lamsal.navin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1K8rVbEyLA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lamsal.navin" height="30" width="40" /></a>
 <a href="https://instagram.com/navinlamsal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navinlamsal11" height="30" width="40" /></a>
 <a href="https://twitter.com/NavinLamsal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NavinLamsal2" height="30" width="40" /></a>
 </p>
